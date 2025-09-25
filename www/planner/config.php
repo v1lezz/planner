@@ -11,7 +11,7 @@ return [
     ],
     // --- App config ---
     'app' => [
-        'base_url' => '/planner/public', // change if app is under subfolder, e.g., '/jira-mvp/'
+        'base_url' => '', // change if app is under subfolder, e.g., '/jira-mvp/'
         'cookie_secure' => false, // set true if using https
         'cookie_domain' => '',
         'cookie_samesite' => 'Lax',
