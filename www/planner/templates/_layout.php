@@ -24,7 +24,7 @@ $user = Auth::user();
           <a href="/admin">Admin</a>
         <?php endif; ?>
       <?php else: ?>
-        <a href="/login">Login</a>
+        <a href="/planner/public/login">Login</a>
         <a href="/register" class="btn">Register</a>
       <?php endif; ?>
     </nav>
