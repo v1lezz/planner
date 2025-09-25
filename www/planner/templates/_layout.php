@@ -8,7 +8,7 @@ $user = Auth::user();
   <meta charset="utf-8">
   <title>Task Planner</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../public/assets/styles.css">
+  <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
 <header class="site-header">
