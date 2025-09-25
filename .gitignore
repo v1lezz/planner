@@ -6,3 +6,5 @@
 /www/**
 .DS_Store
 /buildtest
+
+/www/vendor/
