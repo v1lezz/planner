@@ -4,9 +4,9 @@ return [
     'db' => [
         'host' => 'database',
         'port' => '3306',
-        'name' => 'docker',
-        'user' => 'docker',
-        'pass' => 'docker',
+        'name' => 'planner',
+        'user' => 'v1lezz',
+        'pass' => 'planner',
         'charset' => 'utf8mb4',
     ],
     // --- App config ---
