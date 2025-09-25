@@ -6,7 +6,7 @@ return [
         'port' => '3306',
         'name' => 'planner',
         'user' => 'v1lezz',
-        'pass' => 'planner',
+        'pass' => '1234',
         'charset' => 'utf8mb4',
     ],
     // --- App config ---
