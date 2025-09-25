@@ -1,5 +1,5 @@
 <section class="hero">
-  <h1>Welcome to Task Planner</h1>
+  <h1>Добро пожаловать в Task Planner</h1>
   <p class="muted">Create boards, epics and tasks. Track progress in a lightweight way.</p>
 </section>
 <section>
