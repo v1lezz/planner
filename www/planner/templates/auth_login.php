@@ -6,4 +6,4 @@
   <label class="inline"><input type="checkbox" name="remember"> Remember me</label>
   <button class="btn">Login</button>
 </form>
-<p class="muted small">Tip: after migrations, try admin@example.com / admin123</p>
+<p class="muted small">Admin: a@a.com / 123</p>
